@@ -1,7 +1,5 @@
 def my_collect(array)
-  i = 0 
-  collection =[]
-  while array < array.length 
+  array.collect 
   collection<< yield(array[i])
 end 
 end
