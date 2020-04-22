@@ -1,6 +1,7 @@
 def my_collect(array)
-  array.collect 
-  collection<< yield(array[i])
+  counter = 0 
+  empty_array = []
+  empty_array<< yield(array[i])
 end 
 end
 
