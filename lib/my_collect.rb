@@ -7,6 +7,6 @@ def my_collect(array)
   
   
 end 
-array
+empty_array
 end
 
